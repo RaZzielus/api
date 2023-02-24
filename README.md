@@ -47,7 +47,7 @@ $ npm run start:prod
 
 ## Running migrations
 ```bash
-$ npm run npm run typeorm:migrate
+$ npm run typeorm:migrate
 
 ```
 
